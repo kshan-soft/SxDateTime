@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. Get or clone the code from https://github.com/jyogeshc/SxDateTime
+1. Get or clone the code from https://github.com/kshan-soft/SxDateTime.git
 2. Include the file "src/SteedX/SxDateTime.php" into your code
 3. use SteedX\SxDateTime;
 
